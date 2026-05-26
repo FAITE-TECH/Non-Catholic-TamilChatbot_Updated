@@ -1,3 +1,8 @@
+fastapi
+uvicorn[standard]
 faiss-cpu
 sentence-transformers
-google-generativeai
+google-genai
+pydantic
+numpy
+ 
