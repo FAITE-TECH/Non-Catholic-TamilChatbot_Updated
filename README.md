@@ -26,11 +26,16 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+or
+
+```bash
+uvicorn main:app --reload
+```
 
 Then type your questions in Tamil!
 
 ```bash
-🙋‍♀️= உங்கள் கேள்வி (exit என்றால் முடியும்): இன்று நான் சோகமாக இருக்கிறேன். தேவன் என்ன சொல்கிறார்?
+🙋‍♀️= உங்கள் கேள்வி (exit என்றால் முடியும்): யோவான் 3:16 என்ன சொல்கிறது?
 ```
 
 ##  File Format
